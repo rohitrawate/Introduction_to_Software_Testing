@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-03-26T06:08:11" hostname="Pradeeps-MacBook-Air.local" time="0.017">
+  <properties/>
+  <testcase name="testRightTriangle" classname="DemoTest" time="0.003"/>
+  <testcase name="regularTriangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="regularTriangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="checkOneZero" classname="DemoTest" time="0.0"/>
+  <testcase name="checkEmpty" classname="DemoTest" time="0.0"/>
+  <testcase name="sumEqualsLength" classname="DemoTest" time="0.0"/>
+  <testcase name="checkThreeZeroes" classname="DemoTest" time="0.0"/>
+  <testcase name="checkPlus" classname="DemoTest" time="0.0"/>
+  <testcase name="sumOfTwoSidesIsLessThanThirdSide" classname="DemoTest" time="0.0"/>
+  <testcase name="checkNegativeNumber" classname="DemoTest" time="0.0"/>
+  <testcase name="aMinusBisC" classname="DemoTest" time="0.0"/>
+  <testcase name="regularTriangle" classname="DemoTest" time="0.001"/>
+  <testcase name="checkNegativeNumber2" classname="DemoTest" time="0.0"/>
+  <testcase name="checkNegativeNumber3" classname="DemoTest" time="0.0"/>
+  <testcase name="checkTwoZeroes" classname="DemoTest" time="0.0"/>
+  <testcase name="sumEqualsLength2" classname="DemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
